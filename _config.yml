@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rogue
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Elixir Roma
+tagline:          'Elixir Roma'
+description:      'Il blog della comunity Elixir Roma'
+url:              http://elixir-roma.com
+baseurl:          /
+
+author:
+  name:           'Elixir Roma'
+  url:            https://twitter.com/elixir_roma
+
+paginate:         5
+
+gems: [jekyll-paginate]
