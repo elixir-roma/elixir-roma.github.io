@@ -10,7 +10,7 @@ Come alcuni di voi già sapranno, Lunedì 3 Aprile si è tenuto il primo incontr
 
 In questo primo talk il buon **Claudio ha parlato del linguaggio in linea generica**, introducendone alcune particolarità. Ha messo tanta carne al fuoco, vero, ma l'esposizione è stata chiara e precisa. A fine incontro non sono mancate le domande (varie e stimolanti), testimonianza del fatto che l'interesse c'è, ed è indubbiamente tangibile.
 
-Nel caso in cui te lo fossi perso non temere: l'intera diretta [è disponibile su Facebook, qui](https://www.facebook.com/groups/elixir.roma/permalink/1160422734084663/?pnref=story).
+Nel caso in cui te lo fossi perso non temere: l'intera diretta [è disponibile su Facebook, qui](https://www.facebook.com/groups/elixir.roma/permalink/1160422734084663/?pnref=story). Le slide, invece, [sono pubblicate su Slideshare, qui](https://www.slideshare.net/ClaudioDAlicandro/my-elixir-helwo-lorld).
 
 Stiamo mettendo su questo meetup per due motivi:
 
