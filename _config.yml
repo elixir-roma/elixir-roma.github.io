@@ -207,3 +207,7 @@ prose:
 
 gems:
   - jekyll-paginate
+
+plugins:
+  - jekyll-sitemap
+
