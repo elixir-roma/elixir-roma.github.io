@@ -4,7 +4,7 @@ layout: post
 author: Alessio Biancalana
 ---
 
-Non è la prima volta che viene a omaggiarci della sua presenza, e speriamo che non sia nemmeno l'ultima: per il meetup di giugno avremo l'onore di avere con noi Gabriele Santomaggio, con una presentazione dal titolo "Why you should *not* use the BEAM for distributed applications".
+Non è la prima volta che viene a omaggiarci della sua presenza, e speriamo che non sia nemmeno l'ultima: per il meetup di giugno avremo l'onore di avere con noi Gabriele Santomaggio, con una presentazione dal titolo "Cosa ho imparato lavorando insieme al core team di RabbitMQ e su OpenStack".
 
 Qualche cenno su Gabriele? Lavora in [SUSE](https://www.suse.com/), è core committer di [RabbitMQ](https://www.rabbitmq.com/), conosce la BEAM come le sue tasche, erlanger da una vita, amante della buona cucina quanto noi e più di noi. Dobbiamo aggiungere altro?
 
