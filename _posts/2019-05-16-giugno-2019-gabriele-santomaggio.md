@@ -15,7 +15,7 @@ Dove: LUISS Enlabs, Via Marsala 29/H, Roma
 Quando: 5 giugno 2019, dalle 19.00 in poi
 ```
 
-Come sempre per accreditarsi basta registrarsi su Eventbrite, di cui posteremo il link a breve.
+Come sempre per accreditarsi è necessario registrarsi su [Eventbrite](https://www.eventbrite.it/e/biglietti-roma-meetup-aperitech-di-elixir-roma-gabriele-santomaggio-applicazioni-distribuite-cosa-ho-imparato-62439377860) e prendere un biglietto.
 
 Vi invitiamo anche ad unirvi [allo Slack di BEAM Italia]({{ site.url }}/raggiungici-su-slack) e a fare join del canale `#elixir-roma` per avere tutte le informazioni in tempo reale, o anche solo per fare due chiacchiere.
 
